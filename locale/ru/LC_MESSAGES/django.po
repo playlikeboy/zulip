@@ -11,8 +11,8 @@
 # Иван Иванов <fireman300024@gmail.com>, 2023
 # Sergey Korablin <s.korablin@gmail.com>, 2023
 # Roman Bannack <apxwn@yandex.ru>, 2023
-# Lev Shereshevsky, 2023
 # Transifex Bot <>, 2024
+# Lev Shereshevsky, 2024
 # 
 #, fuzzy
 msgid ""
@@ -21,7 +21,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-15 21:31+0000\n"
 "PO-Revision-Date: 2023-12-15 21:32+0000\n"
-"Last-Translator: Transifex Bot <>, 2024\n"
+"Last-Translator: Lev Shereshevsky, 2024\n"
 "Language-Team: Russian (https://app.transifex.com/zulip/teams/53893/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5053,7 +5053,8 @@ msgid ""
 "The mobile push notification service registration for your server has been "
 "deactivated"
 msgstr ""
-"Регистрация сервиса мобильных push-оповещений вашего сервера была отключена."
+"Регистрация сервиса мобильных push-уведомлений вашего сервера была "
+"отключена."
 
 #: zerver/lib/exceptions.py:343
 msgid "Password authentication is disabled in this organization"
@@ -5560,7 +5561,7 @@ msgid ""
 "notifications"
 msgstr ""
 "В этой организации отключено включение содержимого сообщений в мобильные "
-"push-оповещения. "
+"push-уведомления. "
 
 #: zerver/lib/push_notifications.py:1023
 #, python-brace-format
